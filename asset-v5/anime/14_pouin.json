@@ -1,0 +1,11 @@
+{
+    "animeName":"14_star",
+    "percentageMax":"0.2",
+    "totalFrame":"462",
+    "width":"164",
+    "height":"380",
+    "headHeight":"450",
+    "arrayFrame":[
+    {"prop":"0,380,0,0"}
+  ]
+}

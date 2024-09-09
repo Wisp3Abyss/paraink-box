@@ -1,0 +1,11 @@
+{
+	"animeName":"19_skin",
+	"percentageMax":"0.2",
+	"totalFrame":"130",
+	"width":"164",
+	"height":"380",
+	"headHeight":"212",
+	"arrayFrame":[
+		{"prop":"0,380,0,0"}
+	]
+}
